@@ -1,0 +1,1 @@
+Here's a Tkinter application using ttkbootstrap that prompts the user to enter their name and the number of times they want to print the name. When the user clicks the "Print Name" button, the name will be printed the specified number of times in a list box.
